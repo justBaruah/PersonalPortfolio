@@ -1,0 +1,38 @@
+Portfolio Website Design Brief
+
+I am a ServiceNow developer with 2.5 years of professional experience, and I need a stylish, modern portfolio website to send to recruiters. The design should be sleek and engaging, incorporating smooth, contemporary animations that add a dynamic feel without being overwhelming.
+
+Key Sections to Include:
+
+1. Introduction & Bio:
+   - A professional biography that outlines my career journey, skills, and passion as a ServiceNow developer.
+   - A brief overview highlighting my specialized experience with ITSM topics that I have directly worked on.
+
+2. ITSM Portfolio:
+   - A dedicated section showcasing the ITSM modules and projects I have worked on.
+   - Clear descriptions of my contributions and expertise in each ITSM area, emphasizing hands-on experience.
+
+3. Certifications:
+   - A section listing all relevant certifications to validate my technical proficiency.
+   - Each certification should include a brief description, the issuing organization, and the date obtained.
+
+4. NGO Gallery:
+   - A photo gallery featuring images from my NGO days to demonstrate my commitment to social responsibility.
+   - The images should be organized in an aesthetically pleasing manner.
+
+5. Client Experience:
+   - A section highlighting notable clients I have worked for, with a specific focus on my experience at HCL.
+   - Include brief case studies or testimonials that underline the impact of my work.
+
+6. Contact Section:
+   - A prominent contact section featuring a button labeled "Mail Me" or similar.
+   - When clicked, the button should open the user's default email client to send an email to me (using a mailto: link).
+
+Design & Animation Requirements:
+- The overall layout should be stylish, clean, and professional.
+- Incorporate sleek animations that enhance user interaction and create a modern feel without distracting from the content.
+- Ensure the website is responsive and optimized for different devices (desktop, mobile, etc.).
+
+Tone & Style:
+- The website should balance professionalism with creativity.
+- It must leave a strong impression on recruiters by showcasing technical skills, professional certificates, and personality through both visual elements (NGO Gallery) and interactive elements (animations, contact button).

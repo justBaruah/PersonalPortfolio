@@ -1,0 +1,102 @@
+Professional Experience
+ServiceNow Developer October 2022 – Current
+HCL Tech Nagpur, Maharastra
+• Having 2+ years of hands-on experience in developing custom solutions on the ServiceNow Platform.
+• Set up weekly calls to gather client requirements and modifications and create stories for upcoming
+sprints.
+• Led feedback/improvement calls for DBA, Network, and DCOps teams to understand their needs better,
+identified areas for improvement, and communicated these to clients for detailed requirements.
+• Crafted over 670+ catalog items for the organization to support the requirements of various fulfillers,
+including after a merger.
+• Developed Record Producers to provide an efficient way for end-users to raise incidents using templates.
+• Good knowledge of IT Service Management (ITSM), including Incident, Problem, and Change
+Management life cycles.
+• Experience with setting up email notifications and scheduled tasks in ServiceNow.
+• Implemented Table and Field level security using Access Control Lists (ACLs).
+• Created various Script Utilities to streamline server-side scripting for developers.
+• Developed utility scripts with reusable JavaScript functions for tasks like reference qualifiers and task
+assignments based on location, department, or type.
+• Proficient in Client-side and Server-side scripting within ServiceNow.
+• Created events, Script Actions, and associated notifications for Incident implementations.
+• Designed various front-end forms and associated Client Scripts, UI Policies, including complex
+customizations.
+• Implemented UI Policies and Client-side and Server-side UI Actions for form enhancements in
+ServiceNow.
+• Generated and scheduled reports for various teams, tailored to different roles.
+• Strong understanding of server-side scripting using Business Rules.
+• Worked on data loads and transform maps according to client requirements.
+• Experience in creating and managing Service Catalog items within ServiceNow.
+• Good knowledge of Glide APIs for effective ServiceNow scripting, minimizing instance load.
+• Performed administrative tasks such as user, group, and role management in ServiceNow.
+• Created custom fields and tables for new sub-project implementations.
+• Developed custom tables for location- and task-based routing.
+• Implemented alert buttons within forms for improved user experience.
+• Handled user and group management, including assigning roles.
+Project Engineer Intern March 2022 – May 2022
+Wipro Remote
+• Trained on Java J2EE and Developed team communications and information for meetings.
+• Understanding of industry technical standards. and worked with a team of 10 members
+• Pizza Ordering WebApp with Technologies Used: Eclipse IDE, HTML, CSS, JavaScript
+Certifications
+Certified Application Developer - ServiceNow Nov 2024
+Certified System Administrator - ServiceNow Nov 2024
+Certified Implementation Specialist - IT Service Management - ServiceNow Jan 2024
+AWS Certified Cloud Practitioner January 2024
+Accomplishments
+Best Delegate Award: UNICEF International Model United Nations (IMUN) 68.0.
+Executive Position for: CHaKsHu: An Eye to Life.
+• Helped underpriviledged children and dropped dropout rate to 78 percent.
+• Led a team of 10 members to foster our vision to make access to education to underpriviledged society of the
+Guwahati city
+• Featured on Telegraph India in view of our work:
+https://www.telegraphindia.com/north-east/a-step-for-kids-education-from-underprivileged-
+backgrounds/cid/1753509
+Won 3rd place: National Drama Competition at Alcheringa 2019, IIT Guwahati.
+V-Force United Nation Volunteer: United Nations Volunteers (UNV) program.
+Hands-on Experience
+Project: CommonSpirit Health
+Client: USA
+Environment: ServiceNow
+Duration: October 2022 – till date
+Role: ServiceNow Developer
+Description: As part of the CommonSpirit project at HCLTech, I have been actively involved in delivering IT
+solutions for one of the largest healthcare systems in the United States via ServiceNow. My key responsibilities
+included:
+Responsibilities:
+• Designed and developed over 600+ catalog items to streamline user requests and enhance service delivery within
+the ServiceNow platform.
+• Was responsible to faciliate Request Management after Dignity Heath merger with Commonspirit
+• led feedback/improvement calls for DBA, Network, DCOps team to understand them better, in what more fields
+we can add to help them fulfill their work better and conveyed the same to clients for more detailed recquirement
+• Created Location based/Group Based User Criteria for various Service Catalog Items, Record Producers and
+knowledge articles
+• Put forward a custom routing table that would facilitate task routing based on location or telecom types.
+• Created custom Script utilities to ease server side scipting and calls for developers.
+• Created various events using Business Rules for after assignation and updates based on activity, work notes and
+comments.
+• Migrated update sets in batch for sprint from One Instance to Another.
+• Generated and scheduled reports for various teams, tailored to different roles
+• Created dynamic forms with variable sets, UI policies, and client scripts to ensure user-friendly interfaces and
+efficient data collection.
+• Analyzed existing catalog items and modified them to meet changing business requirements or improve
+performance.
+• Created and Updated workflows, associated tasks, and notifications for catalog items to optimize the request
+fulfillment process.
+• Managed the end-to-end lifecycle of service requests, ensuring timely and accurate fulfillment of user requests.
+• Collaborated with stakeholders and fulfillment groups to gather requirements and translate them into functional
+catalog items that align with business needs.
+• Developed and enhanced workflows to automate the approval and fulfillment processes associated with service
+requests, reducing manual effort and improving efficiency.
+• Conducted thorough testing of new and modified catalog items, including unit testing, to ensure functionality
+and user satisfaction.
+• Identified and resolved issues during the testing phase in Test and Stage to ensure smooth deployment in the
+production environment.
+• Developed and maintained test suites using ATF to ensure seamless functionality of catalog items and workflows
+• Created and maintained documentation for Custom INC/problems application, catalog items new and old,
+workflows, and related configurations to support future development.
+• Provided training and support to end-users and other developers on the usage and management of catalog
+items, new incident application performance.
+• Engaged in continuous improvement initiatives by gathering feedback from users and stakeholders to enhance
+catalog items, record producers and request management processes.
+• Stayed updated with ServiceNow platform releases and best practices to implement new features and
+improvements
